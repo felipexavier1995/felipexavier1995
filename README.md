@@ -3,7 +3,7 @@
 ### Sou formado em analise e desenvolvimento de sistemas, amante de tecnologia, esportes e livros. 🖥️
 #
 ## Objetivo do meu GitHub. 🎖️ 
-Demonstrar o meu desenvolvimento em conhecimentos sobre banco de dados voltado para I.A, deep learning e engenharia de dados e BI.
+Demonstrar o meu desenvolvimento em conhecimentos sobre banco de dados e programação voltado para I.A, deep learning e engenharia de dados e BI.
 # 
 ## Minhas habilidades. ⭐
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
