@@ -1,6 +1,8 @@
 # Hi, I'm Felipe Xavier. ✋
 
-### I have a degree in Systems Analysis and development, technology lover, sports, book and marcial arts. ✌️
+### I have a degree in Systems Analysis and development
+### :office: I'm Database Administor.
+### :books: I'm Learning English at moment.
 #
 ## I'm Database Adminstrator.
 ## The objective of my GitHub. 🎖️ 
