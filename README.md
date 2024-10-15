@@ -4,7 +4,7 @@
 
 ### I have a degree in Systems Analysis and development
 ### :office: I'm Database Administor.
-### :books: I'm Learning English at moment.
+### :books: I'm Learning English at moment and some cloud tools.
 #
 ## I'm Database Adminstrator.
 ## The objective of my GitHub. 🎖️ 
