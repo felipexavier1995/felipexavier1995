@@ -2,8 +2,9 @@
 
 ### I have a degree in Systems Analysis and development, technology lover, sports, book and marcial arts. ✌️
 #
+## I'm Database Adminstrator.
 ## The objective of my GitHub. 🎖️ 
-Demonstrate my development in knowledge about database and programming focused on AI, deep learning and data engineering and BI.
+Demonstrate my development in knowledge about database and BI.
 # 
 ## My skills. ⭐
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
