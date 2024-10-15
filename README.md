@@ -3,7 +3,7 @@
 # Welcome my profile. 
 
 ### I have a degree in Systems Analysis and development
-### :office: I'm Database Administor.
+### :office: I'm Database Administrator.
 ### :books: I'm Learning English at moment and some cloud tools.
 #
 ## I'm Database Adminstrator.
