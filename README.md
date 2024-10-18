@@ -6,7 +6,7 @@
 ### :office: I'm Database Administrator.
 ### :books: I'm Learning English at moment and some cloud tools.
 #
-## I'm Database Adminstrator.
+
 ## The objective of my GitHub. 🎖️ 
 Demonstrate my development in knowledge about database and BI.
 # 
